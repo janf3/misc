@@ -1,0 +1,85 @@
+############################################
+#                                          #
+#    HOSTS List (Win7)                     #
+#                                          #
+#  * Removes common advertisers adds       #
+#  * Removes inplay ads on live streams    #
+#                                          #
+#                                          #
+#    02/12/2016 modified                   #
+############################################
+
+::1 localhost
+127.0.0.1 localhost
+
+
+# Misc Adserver
+0.0.0.0 ad.scanmedios.com
+0.0.0.0 ad.smartclip.net
+0.0.0.0 ad.turn.com
+0.0.0.0 ad.xtendmedia.com
+0.0.0.0 ad.yieldmanager.com
+0.0.0.0 ads.adxpose.com
+0.0.0.0 ads.intergi.com
+0.0.0.0 ads.heias.com
+0.0.0.0 ameba.d.ad-cloud.jp
+0.0.0.0 cdn.spotxchange.com
+0.0.0.0 chibis.us.cf.adotube.com
+0.0.0.0 chibis20.adotube.com
+0.0.0.0 chibis.adotube.com
+0.0.0.0 content.yieldmanager.com
+0.0.0.0 search.spotxchange.com
+
+# Doubleclick / Google
+0.0.0.0 *.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.de.doubleclick.net
+0.0.0.0 ad.uk.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 clients.l.google.com
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead.l.google.com
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 partnerad.l.google.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 safebrowsing.clients.google.com
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www.google-analytics.com
+
+# Misc Pages
+0.0.0.0 ad.auditude.com
+0.0.0.0 adserver.adtech.de
+0.0.0.0 ads.jinkads.com
+0.0.0.0 adserver.freenet.de
+0.0.0.0 js.adscale.de
+0.0.0.0 ih.adscale.de
+0.0.0.0 bog.verticalnetwork.de
+0.0.0.0 addie.verticalnetwork.de
+0.0.0.0 helios.gamerdna.com
+
+# own3d / Ustream
+0.0.0.0 tubemogul.com
+0.0.0.0 load.tubemogul.com
+0.0.0.0 receive.inplay.tubemogul.com
+0.0.0.0 rtd.tubemogul.com
+0.0.0.0 static.inplay.tubemogul.com
+0.0.0.0 liverail.com
+0.0.0.0 ad4.liverail.com
+0.0.0.0 test.liverail.com
+0.0.0.0 t4.liverail.com
+0.0.0.0 vox-static.liverail.com
+
+# JustinTV / TwitchTV
+0.0.0.0 adadvisor.net
+0.0.0.0 adnxs.com
+0.0.0.0 ads.adap.tv
+0.0.0.0 gam.adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 brainient.com
+0.0.0.0 ads.brainient.com
