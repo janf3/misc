@@ -1,13 +1,13 @@
-############################################
-#                                          #
-#    HOSTS List (Win7)                     #
-#                                          #
-#  * Removes common advertisers adds       #
-#  * Removes inplay ads on live streams    #
-#                                          #
-#                                          #
-#    02/12/2016 modified                   #
-############################################
+###################################################
+#                                                 #
+#    HOSTS List (Windows 7-10)                    #
+#    can also be used as uBlock Filter            #
+#                                                 #
+#  * Removes common advertisers adds              #
+#  * Removes inplay ads on (some) live streams    #
+#                                                 #
+#    modified 23.04.2017                          #
+###################################################
 
 ::1 localhost
 127.0.0.1 localhost
