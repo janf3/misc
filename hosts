@@ -31,6 +31,7 @@
 0.0.0.0 content.yieldmanager.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 cdn.runative-syndicate.com
+0.0.0.0 cdn.run-syndicate.com
 
 # Doubleclick / Google
 0.0.0.0 *.doubleclick.net
