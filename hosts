@@ -12,7 +12,6 @@
 ::1 localhost
 127.0.0.1 localhost
 
-
 # Misc Adserver
 0.0.0.0 ad.scanmedios.com
 0.0.0.0 ad.smartclip.net
