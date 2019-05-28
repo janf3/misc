@@ -6,7 +6,7 @@
 #  * Removes common advertisers adds              #
 #  * Removes inplay ads on (some) live streams    #
 #                                                 #
-#    modified 23.04.2017                          #
+#    modified 28.05.2019                          #
 ###################################################
 
 ::1 localhost
@@ -30,6 +30,7 @@
 0.0.0.0 chibis20.adotube.com
 0.0.0.0 content.yieldmanager.com
 0.0.0.0 search.spotxchange.com
+0.0.0.0 cdn.runative-syndicate.com
 
 # Doubleclick / Google
 0.0.0.0 *.doubleclick.net
