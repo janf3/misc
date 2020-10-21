@@ -6,7 +6,7 @@
 #  * Removes common advertisers adds              #
 #  * Removes inplay ads on (some) live streams    #
 #                                                 #
-#    modified 28.05.2019                          #
+#    modified 22.10.2020                          #
 ###################################################
 
 ::1 localhost
@@ -64,6 +64,7 @@
 0.0.0.0 bog.verticalnetwork.de
 0.0.0.0 addie.verticalnetwork.de
 0.0.0.0 helios.gamerdna.com
+0.0.0.0 def.dev-nano.com
 
 # own3d / Ustream
 0.0.0.0 tubemogul.com
