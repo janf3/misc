@@ -9,5 +9,8 @@ playhydrax.com##[id^="over"]
 instagram.com##.RnEpo
 instagram.com##body:style(overflow: auto !important)
 
+! Dramacool Sidebar
+dramacool.ae###mCSB_1
+
 ! kompany.at blur
 kompany.at##^script:has-text(maskformcontent)
