@@ -8,3 +8,6 @@ playhydrax.com##[id^="over"]
 ! Instagram Login Overlay
 instagram.com##.RnEpo
 instagram.com##body:style(overflow: auto !important)
+
+! kompany.at blur
+kompany.at##^script:has-text(maskformcontent)
