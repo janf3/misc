@@ -18,3 +18,6 @@ kompany.at##^script:has-text(maskformcontent)
 
 ! 31.03.2021 -> www.allkpop.com
 www.allkpop.com##.apester-element.apester-media
+
+! 2021-04-13 https://soranews24.com
+soranews24.com##.wp-post-image.aligncenter.lazy
