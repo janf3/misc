@@ -1,22 +1,25 @@
-! 31.08.2018 -> rarbg overlay
+! Title: jf3 Custom Filters
+! Expires: 1 days
+
+! 2018-08-31 -> rarbg overlay
 rarbgprx.org###lkag4
 
-! 02.05.2021 -> KissTvShow
+! 2021-05-02 -> KissTvShow
 kisstvshow.to##script:contains(leHzI)
 kisstvshow.to##script:contains(xaZlE)
 
-! 09.08.2020 -> HX Overlay
+! 2020-08-09 -> HX Overlay
 playhydrax.com##[id^="over"]
 
-! 2021-05-04 https://www3.dramacool.ae
+! 2021-05-04 -> dramacool.ae
 www3.dramacool.ae##.mCS_no_scrollbar.mCS-autoHide._mCS_1.mCustomScrollbar.scrolling.right.sidebar
 www3.dramacool.ae##.mCS_no_scrollbar.mCS-autoHide._mCS_2.mCustomScrollbar.scrolling.right.sidebar
 www3.dramacool.ae##.doothemes_widget.widget
 
-! 14.02.2021 -> kompany.at blur
+! 2021-02-14 -> kompany.at blur
 kompany.at##^script:has-text(maskformcontent)
 
-! 31.03.2021 -> www.allkpop.com
+! 2021-03-31 -> www.allkpop.com
 www.allkpop.com##.apester-element.apester-media
 
 ! 2021-04-13 https://soranews24.com
