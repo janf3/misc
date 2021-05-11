@@ -1,13 +1,5 @@
-###################################################
-#                                                 #
-#    HOSTS List (Windows 7-10)                    #
-#    can also be used as uBlock Filter            #
-#                                                 #
-#  * Removes common advertisers adds              #
-#  * Removes inplay ads on (some) live streams    #
-#                                                 #
-#    modified 22.10.2020                          #
-###################################################
+! Title: jf3 hosts file
+! Expires: 1 days
 
 ::1 localhost
 127.0.0.1 localhost
