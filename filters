@@ -12,9 +12,9 @@ kisstvshow.to##script:contains(xaZlE)
 playhydrax.com##[id^="over"]
 
 ! 2021-05-04 -> dramacool.ae
-www3.dramacool.ae##.mCS_no_scrollbar.mCS-autoHide._mCS_1.mCustomScrollbar.scrolling.right.sidebar
-www3.dramacool.ae##.mCS_no_scrollbar.mCS-autoHide._mCS_2.mCustomScrollbar.scrolling.right.sidebar
-www3.dramacool.ae##.doothemes_widget.widget
+!www3.dramacool.ae##.mCS_no_scrollbar.mCS-autoHide._mCS_1.mCustomScrollbar.scrolling.right.sidebar
+!www3.dramacool.ae##.mCS_no_scrollbar.mCS-autoHide._mCS_2.mCustomScrollbar.scrolling.right.sidebar
+!www3.dramacool.ae##.doothemes_widget.widget
 
 ! 2021-02-14 -> kompany.at blur
 kompany.at##^script:has-text(maskformcontent)
