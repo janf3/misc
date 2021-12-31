@@ -1,9 +1,6 @@
 ! Title: jf3 hosts file
 ! Expires: 1 days
 
-::1 localhost
-127.0.0.1 localhost
-
 # Misc Adserver
 0.0.0.0 ad.scanmedios.com
 0.0.0.0 ad.smartclip.net
@@ -57,6 +54,7 @@
 0.0.0.0 addie.verticalnetwork.de
 0.0.0.0 helios.gamerdna.com
 0.0.0.0 def.dev-nano.com
+0.0.0.0 quantumdex.io
 
 # own3d / Ustream
 0.0.0.0 tubemogul.com
