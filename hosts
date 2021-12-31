@@ -22,7 +22,7 @@
 0.0.0.0 cdn.run-syndicate.com
 
 # Doubleclick / Google
-0.0.0.0 *.doubleclick.net
+0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.de.doubleclick.net
 0.0.0.0 ad.uk.doubleclick.net
